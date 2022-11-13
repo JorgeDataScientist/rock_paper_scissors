@@ -17,3 +17,5 @@ How you will compare the user's and the computer's choice to determine the winne
 And also how you will give feedback to the player.
 You can find the "official" rules of the game on the World Rock Paper Scissors Association website.
 https://wrpsa.com/ 
+
+![rock](https://user-images.githubusercontent.com/117787883/201504321-b16722da-cc74-449f-a2a2-7b6e9119072d.jpg)
